@@ -449,7 +449,3 @@ WHERE id = 6;
 -- Di dalam tabel students, hapus data yang ber id 2
 DELETE FROM students
 WHERE id = 2;
-
--- Jangan hapus kueri di bawah
-SELECT * FROM students;
-
