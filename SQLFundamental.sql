@@ -1,4 +1,4 @@
-﻿-- SELECT + Condition
+-- SELECT + Condition
 
 -- WHERE 1
 -- menampilkan semua data baris dengan nilai "makanan" dikolom "category" 
